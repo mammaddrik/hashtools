@@ -13,8 +13,9 @@
     <img src="https://img.shields.io/github/release/mammaddrik/hashtools.svg">
   </a>
 </p>
-
-[![demo.png](https://i.postimg.cc/mDmGWCfY/demo.png)](https://github.com/mammaddrik/hashtools)
+<h1 align="center">
+    <a href="https://github.com/mammaddrik/hashtools"><img src="https://i.postimg.cc/mDmGWCfY/demo.png" alt="Hash Tools"></a>
+</h1>
 
 ### Contents  
 [Features](#features)<br>
