@@ -49,9 +49,9 @@ After installing the script, you can choose two options from the script:<br>
 1. It is for Cracking the hash:
     > **Note:** To crack, you must use a passwordlist.
 
-    [![hashcracker.png](https://i.postimg.cc/jqgbwzVx/hashcracker.png)](https://github.com/mammaddrik/hashtools)
-
+    [![hashcracker.png](https://i.postimg.cc/rFpHwnpN/hashcracker.png)](https://github.com/mammaddrik/hashtools)
 2. It is for Generator the hash:
+
     [![hashgenerator.png](https://i.postimg.cc/1RTd1Mhq/hashgenerator.png)](https://github.com/mammaddrik/hashtools)
 
 ## License
