@@ -17,12 +17,17 @@
     <a href="https://github.com/mammaddrik/hashtools"><img src="https://i.postimg.cc/mDmGWCfY/demo.png" alt="Hash Tools"></a>
 </h1>
 
-### Contents  
+<details>
+<summary>Contents</summary>
+
 [Features](#features)<br>
 [Installation](#installation)<br>
 [Usage](#usage)<br>
 [License](#license)
 
+</details>
+
+<br>
 A Python script to crack the hash and create a hash with a different algorithm.
 
 ## Features
