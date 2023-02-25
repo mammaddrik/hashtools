@@ -1,3 +1,4 @@
+<div id="top"></div>
 <h1 align="center">
     <br>
     <a href="https://github.com/mammaddrik/hashtools"><img src="https://i.postimg.cc/yYD6rsH9/logo.png" alt="Hash Tools"></a>
@@ -61,3 +62,5 @@ After installing the script, you can choose two options from the script:<br>
 
 ## License
 hashtools is licensed under [MIT License](https://github.com/mammaddrik/hashtools/blob/main/LICENSE).
+
+<p align="right"><a href="#top">back to top</a></p>
