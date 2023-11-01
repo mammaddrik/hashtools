@@ -86,8 +86,8 @@ def hashtools():
                     slowprint(Color.BRed +"File is Empty.")
                     again()
         except FileNotFoundError:
-                slowprint(Color.BRed +"File Not Found.")
-                again()
+            slowprint(Color.BRed +"File Not Found.")
+            again()
         
         with open(pwfile, "r") as f:
             counter = 1
