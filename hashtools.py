@@ -136,7 +136,7 @@ Enter the Algorithms: """)
             slowprint(Color.BRed +"Enter the Available Algorithm.")
             again()
 
-        for i in range(3):
+        for i in range(1):
             setpass = bytes(password, "utf-8")
             h = hashlib.new(hashvalue)
             h.update(setpass)
